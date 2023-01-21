@@ -1,6 +1,6 @@
 # Welcome to XDC.sale.
-## See some bugs / errors - open issue
-## Want to share a good idea - open feature task
+- See some bugs / errors - open issue
+- Want to share a good idea - open feature task
 
 ### Links
 - Website: [xdc.sale](https://xdc.sale/)
